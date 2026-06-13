@@ -41,3 +41,13 @@ La arquitectura por capas fue seleccionada porque:
 Este estilo es ideal para el sistema de biblioteca, ya que organiza claramente la lógica de negocio, el acceso a datos y la interfaz de usuario.
 
 ---
+
+## Alternativas consideradas
+
+| Alternativa | Razón de descarte |
+|-------------|-------------------|
+| Microservicios | Demasiada complejidad para el alcance del proyecto y requiere infraestructura adicional. |
+| Monolito sin capas | Dificulta el mantenimiento y genera alto acoplamiento entre componentes. |
+| Event-driven architecture | No es necesaria ya que el sistema no requiere procesamiento asíncrono complejo. |
+| Serverless | No aplica al contexto académico ni a la arquitectura requerida en clase. |
+
