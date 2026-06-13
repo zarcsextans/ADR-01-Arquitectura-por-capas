@@ -40,3 +40,7 @@ Las decisiones arquitectónicas del proyecto se documentan mediante ADRs (Archit
 
 **Scarlet Angelina Ruelas Cardeña**  
 TSU Desarrollo e Innovación en Software
+
+## Declaración de uso de IA
+
+Este documento fue elaborado con apoyo de herramientas de inteligencia artificial para mejorar la redacción, estructura y claridad del ADR, bajo supervisión y ajustes del estudiante.
