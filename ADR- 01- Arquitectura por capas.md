@@ -51,3 +51,22 @@ Este estilo es ideal para el sistema de biblioteca, ya que organiza claramente l
 | Event-driven architecture | No es necesaria ya que el sistema no requiere procesamiento asíncrono complejo. |
 | Serverless | No aplica al contexto académico ni a la arquitectura requerida en clase. |
 
+---
+
+## Consecuencias
+
+### ✅ Beneficios
+
+- Código organizado y modular
+- Fácil de entender y mantener
+- Separación clara entre UI, lógica de negocio y datos
+- Mejor control del flujo del sistema
+
+### ⚠️ Desventajas
+
+- Mayor cantidad de clases y archivos
+- Más configuración inicial
+- Puede ser más rígida si el sistema crece a escala muy grande
+
+---
+
