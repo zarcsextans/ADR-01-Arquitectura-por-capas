@@ -70,3 +70,17 @@ Este estilo es ideal para el sistema de biblioteca, ya que organiza claramente l
 
 ---
 
+## Diagrama del estilo arquitectónico
+
+```mermaid
+flowchart TD
+
+U[Usuario] --> W[Web Application - MVC]
+W --> A[API ASP.NET Core]
+A --> S[Capa de Servicios]
+S --> R[Capa de Repositorios]
+R --> D[(Base de Datos PostgreSQL)]
+
+S --> S1[Servicio de Catálogo]
+S --> S2[Servicio de Pagos]
+S --> S3[Servicio de Préstamos]
