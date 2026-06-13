@@ -84,3 +84,9 @@ R --> D[(Base de Datos PostgreSQL)]
 S --> S1[Servicio de Catálogo]
 S --> S2[Servicio de Pagos]
 S --> S3[Servicio de Préstamos]
+```
+---
+
+## Declaración de uso de IA
+
+Este documento fue elaborado con apoyo de herramientas de inteligencia artificial para mejorar la redacción, estructura y claridad del ADR, bajo supervisión y ajustes del estudiante.
