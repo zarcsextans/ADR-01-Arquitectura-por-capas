@@ -16,3 +16,14 @@ Se requiere definir formalmente el estilo arquitectónico del sistema para garan
 
 ---
 
+## Decisión
+
+Se decidió utilizar el estilo arquitectónico de **arquitectura por capas (Layered Architecture)**, compuesto por:
+
+- Capa de presentación (Web Application - ASP.NET Core MVC)
+- Capa de API (ASP.NET Core Web API)
+- Capa de servicios (Business Logic)
+- Capa de repositorios (Data Access Layer)
+- Base de datos (PostgreSQL)
+
+---
